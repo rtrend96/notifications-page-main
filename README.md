@@ -29,8 +29,8 @@ Users should be able to:
 ![](./design/desktop-design.jpg)
 
 ### Links
-
-- Live Site URL: []
+-site code: [https://github.com/rtrend96/notifications-page-main]
+- Live Site URL: [https://rtrend96.github.io/notifications-page-main/]
 
 ## My process
 
